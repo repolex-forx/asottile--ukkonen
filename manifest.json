@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "ukkonen",
+  "versions": [
+    {
+      "commit": "6a931aa21a7b80913659fa2caa1577205cd37e3c",
+      "parsed_at": "2026-10-20T21:07:11.213828+00:00",
+      "filetree": "filetree/6a931aa21a7b80913659fa2caa1577205cd37e3c.nq.gz",
+      "blobs": [
+        "blob/0c5a37eb0adeb312718e533d0a4fbcbea6880056.nq.gz",
+        "blob/1b0eda57ae27cd726758b07044bcdd0428a1e03a.nq.gz",
+        "blob/5ff00c89f97577ef97fc445e448a0eb79a4d1d1d.nq.gz",
+        "blob/bdf2bf215a4187d259500f52eef1cad697b92eb3.nq.gz",
+        "blob/ecb47fcbb095527e947479366f25dcffcf465631.nq.gz",
+        "blob/890f66cd81c1371c9340f40d679e3e9be0b85367.nq.gz",
+        "blob/d29ee2cb2c2eb47beddb095c2f658904a41182f0.nq.gz",
+        "blob/396b9712666c81a5a47df59feccd186a16821725.nq.gz",
+        "blob/5370c9485451439199ab7ab9ba30c95d9a046275.nq.gz",
+        "blob/1962eadb1dc3e282938003e2900440c057a74ed6.nq.gz",
+        "blob/7e451508b607bbd6c23b3fdd025fb86fffa922cf.nq.gz",
+        "blob/3857df48f261cc023ffbbfcfd2542978ede26d76.nq.gz",
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/8904f8f069f8caa31c6f10fc80f5a6cdb60e49a9.nq.gz",
+        "blob/56711f2d10341d6388084d85a5560fd8b9fac96d.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/dd199527135d8c4c88cd6963b2eba89b16ccb864.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
