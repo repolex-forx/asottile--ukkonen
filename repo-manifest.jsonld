@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/ukkonen/commit/6a931aa21a7b80913659fa2caa1577205cd37e3c",
       "git:hexsha": "6a931aa21a7b80913659fa2caa1577205cd37e3c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:08:38.560682+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/ukkonen/commit/a72243a9b1730cea27f1ad7f358adcb255cebcff",
